@@ -1,0 +1,21 @@
+<resources>
+    <string name="box_2">Aa Bb Cc</string>
+    <string name="button_red">Red</string>
+    <string name="button_yellow">Yellow</string>
+    <string name="button_green">Green</string>
+    <string name="app_name" />
+    <string name="how_to_play">What To  Do:-  </string>
+    <string name="tap_the_boxes_and_buttons">  Play Around To get The Matching Text Color and Background</string>
+    <string name="text">Text</string>
+    <string name="text_color">Text</string>
+    <string name="button_blue" />
+    <string name="button_blue1">Blue</string>
+    <string name="button_purple">Purple</string>
+    <string name="bold">B</string>
+    <string name="font_color">Font Color:-</string>
+    <string name="background">Background:-</string>
+    <string name="font_style">Font Style:-</string>
+    <string name="italic">I</string>
+    <string name="underline">U</string>
+    <string name="normal">N</string>
+</resources>
